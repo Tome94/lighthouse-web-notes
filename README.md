@@ -6,4 +6,4 @@ This repository contains all of the notes taken by [tommy](https://github.com/To
 
 ### Table of contents
 * [week 1](/Week_1)
-  * [day 1](/Day_1)
+  * [day 1](/Week_1/Day_1)
